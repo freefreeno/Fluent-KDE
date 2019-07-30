@@ -1,0 +1,5 @@
+[X-GNOME-Metatheme]
+Name=Fluent-gtk
+Type=X-GNOME-Metatheme
+Comment=GTK them to match the Fluent Plasma color scheme 
+Encoding=UTF-8
